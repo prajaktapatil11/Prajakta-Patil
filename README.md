@@ -27,22 +27,10 @@ Computer Vision, NLP, LLMs, Recommendation Systems
 **Tools:**  
 Git, GitHub, Jupyter, VS Code, Docker  
 
----
 
-## 📌 Featured Projects
-🔹 **AI Resume Screener** – NLP-based resume ranking system  
-🔹 **Face Mask Detection** – CNN using OpenCV & TensorFlow  
-🔹 **Stock Price Prediction** – LSTM-based time series model  
-🔹 **Chatbot using LLM** – Transformer-based conversational AI  
 
-👉 *Check pinned repositories below ⬇️*
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajakta Patil&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajakta Patil &layout=compact)
 
 
 
